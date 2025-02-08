@@ -1,0 +1,21 @@
+1) ¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+
+Aunque al inicio parece complicado del como funcionan los comandos o si saldrá bien el push.
+cuando se nos adaptamos al uso de GIT, es mucho más fácil y se crea ese confianza en que si algo en nuestro código falla
+aun tenemos ese respaldo de una versión anterior guardada en el remoto de GitHub.
+
+
+2) ¿Cómo fue la experiencia de trabajar en parejas? ¿Encontraste
+algún conflicto? ¿Cómo lo resolviste?
+
+aunque no pude realizar la terea en pareja, ya había tenido la experiencia de trabajar asi con mis compañeros en el curso de Algoritmos
+aunque no usamos Git con toda lo que nos ofrecía, fue la ventana para poder experimentar trabajar en pareja.
+espero poder trabajar con mis compañeros de una forma sencilla y resolver dudas sobre git. 
+
+3) ¿Qué ventajas crees que tiene usar Git en proyectos de
+programación?
+
+Que podemos ir subiendo nuestro códigos funcionales, y si algún compañero quiere hacer un cambio, puede crear su rama.
+así no afectar nuestro código principal. el podría encontrar formar mas sencillas para nuestro código y viceversa.
+también el orden que llevamos en cuando a nuestro código, y si cometemos un error o no recordamos donde hemos hecho un cambio
+estará un commit que tiene la respuesta
